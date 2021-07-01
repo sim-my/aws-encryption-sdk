@@ -19,8 +19,8 @@
   <li>AWS Encryption SDK for Python</li>
 </ol>
    
-### Important Notes
+### Important Stuffs
 <ol>
   <li>We can choose whatever algorithm like for Encryption. Default is used here which is <strong>AES-GCM with an HMAC-based extract-and-expand key derivation function (HKDF ), signing, and a 256-bit encryption key.</strong></li>
-  <li>The encryption is tested for pdf, docx, jpg image and txt files.</li>
+  <li>The encryption is tested for <strong>pdf, docx, jpg image and txt</strong> files.</li>
 <ol>
